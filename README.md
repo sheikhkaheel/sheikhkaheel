@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋, I'm Kaheel
 
-<!--
-**sheikhkaheel/sheikhkaheel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer from Kashmir
 
-Here are some ideas to get you started:
+I enjoy building modern web and mobile applications using React, Next.js, Node.js, MongoDB, and React Native. I'm also interested in AI, automation, and creating practical software that solves real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- Frontend: React, Next.js, TypeScript, Tailwind CSS
+- Backend: Node.js, Express
+- Database: MongoDB, PostgreSQL
+- Mobile: React Native, Android
+- Tools: Git, GitHub, Docker, VS Code
+
+📫 Feel free to connect and collaborate on exciting projects!
