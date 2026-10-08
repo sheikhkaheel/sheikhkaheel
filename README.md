@@ -8,7 +8,7 @@ I enjoy building modern web and mobile applications using React, Next.js, Node.j
 - Frontend: React, Next.js, TypeScript, Tailwind CSS
 - Backend: Node.js, Express
 - Database: MongoDB, PostgreSQL
-- Mobile: React Native, Android
-- Tools: Git, GitHub, Docker, VS Code
+- Mobile: React Native, Expo
+- Tools: Git, GitHub,
 
 📫 Feel free to connect and collaborate on exciting projects!
